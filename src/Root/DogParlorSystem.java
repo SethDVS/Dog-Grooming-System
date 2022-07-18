@@ -1,9 +1,8 @@
-package dogparlorsystem;
+package Root;
 
 public class DogParlorSystem {
 
     public static void main(String[] args) {
-        // TODO code application logic here
     }
     
 }
